@@ -1,0 +1,15 @@
+{
+    "id": "wethink-modpack-installer",
+    "name": "WeThink Modpack Installer",
+    "author": "WeThink",
+    "version": "1.0.0",
+    "description": "One click modpack installer from Modrinth.",
+    "category": "plugin",
+    "namespace": "WeThink\\ModpackInstaller",
+    "class": "ModpackInstallerPlugin",
+    "panels": [
+        "server"
+    ],
+    "panel_version": null,
+    "composer_packages": null
+}
