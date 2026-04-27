@@ -1,6 +1,6 @@
 # WeThink Modpack Installer
 
-A premium, high-performance Modpack Installer plugin for the Pelican Panel (WeThink Branded). This plugin allows server owners to install and manage Minecraft modpacks from Modrinth with a single click.
+One click modpack installer from Modrinth.
 
 ## 🚀 Features
 
