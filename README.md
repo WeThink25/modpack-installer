@@ -31,4 +31,4 @@ A premium, high-performance Modpack Installer plugin for the Pelican Panel (WeTh
 
 ## 📝 Note
 
-The plugin was created with AI assistance. All rights are owned by me (the author). This resource is free to use.
+The plugin was created with AI assistance. This resource is free to use.
